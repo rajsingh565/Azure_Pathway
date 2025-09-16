@@ -17,7 +17,8 @@ This is a simple, responsive static website designed to promote learning Microso
 
 ## Screenshot
 ![image_alt](https://github.com/rajsingh565/Azure_Pathway/blob/4008e3abdf559481f699de7084607453b8bdcf21/Screenshot%202025-09-16%20182845.png)
-![image_alt]()
+![image_alt](https://github.com/rajsingh565/Azure_Pathway/blob/c300d55d3b162f7cdbce25745f3ba0e5045e30c1/Screenshot%202025-09-16%20182915.png)
+
 
 ## How to View
 
@@ -49,4 +50,5 @@ This project is provided as-is for learning and demonstration purposes.
 ---
 
 *Created as part of the "Build Your Future: Cloud Azure with Pluralsight" project.*
+
 
