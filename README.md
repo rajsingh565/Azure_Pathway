@@ -14,6 +14,11 @@ This is a simple, responsive static website designed to promote learning Microso
 - Basic JavaScript animations and scroll effects for enhanced user experience
 - External links open in new tabs
 
+
+## Screenshot
+![image_alt](https://github.com/rajsingh565/Azure_Pathway/blob/4008e3abdf559481f699de7084607453b8bdcf21/Screenshot%202025-09-16%20182845.png)
+![image_alt]()
+
 ## How to View
 
 1. Clone or download this repository to your local machine.
@@ -44,3 +49,4 @@ This project is provided as-is for learning and demonstration purposes.
 ---
 
 *Created as part of the "Build Your Future: Cloud Azure with Pluralsight" project.*
+
